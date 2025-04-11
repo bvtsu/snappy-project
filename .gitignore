@@ -1,0 +1,10 @@
+# mask python3 venv folders
+bin/
+include/
+lib/
+share/
+pyvenv.cfg
+
+# mask temp files generated from testing code
+test_data/
+*.png
